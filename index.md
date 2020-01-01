@@ -3,11 +3,10 @@
 layout: col-sidebar
 title: OWASP Morocco
 tags: example-tag
-level: 0
+level: 1
 
 region: Africa
 
-auto-migrated: 1
 
 ---
 [Upcoming Events](#upcoming-events)&nbsp;&nbsp;&nbsp;   [Chapter Leadership](#chapter-leadership)
