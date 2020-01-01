@@ -46,8 +46,8 @@ The chapter leadership board is as follows:
   <tr><td>Chapter Leader</td>
       <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.</td>
       <td>Azzeddine RAMRAMI</td></tr>
-    <tr><td>Sponsor Coordinator</td>
-      <td>Serves as the primary liaison between the Chapter and all sponsors, and solicits sponsors for the Chapter meetings, happy hours, AppSec Africa, and other events.</td>
+    <tr><td>Chapter Co-Leaders</td>
+      <td>We are three chapter leaders to manage all OWASP Morocco Chapter activities, events and more.</td>
       <td>Azzeddine RAMRAMI<br/>Tarif EL AOUADI<br/>Alaeddine MESBAHI<br/></td></tr>
     <tr><td>Speaker Coordinator</td>
       <td>Seeks and schedules speakers for monthly Chapter meetings, AppSec Africa, and other events.</td>
