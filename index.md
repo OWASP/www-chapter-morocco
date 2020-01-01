@@ -49,13 +49,13 @@ The chapter leadership board is as follows:
       <td>Azzeddine RAMRAMI</td></tr>
     <tr><td>Sponsor Coordinator</td>
       <td>Serves as the primary liaison between the Chapter and all sponsors, and solicits sponsors for the Chapter meetings, happy hours, AppSec Africa, and other events.</td>
-      <td>Azzeddine RAMRAMI<br/>Tarif EL OUADI<br/>Alaeddine MISBAHI<br/></td></tr>
+      <td>Azzeddine RAMRAMI<br/>Tarif EL OUADI<br/>Alaeddine MESBAHI<br/></td></tr>
     <tr><td>Speaker Coordinator</td>
       <td>Seeks and schedules speakers for monthly Chapter meetings, AppSec Africa, and other events.</td>
       <td>Tarif EL OUADI</td></tr>
     <tr><td>Education Coordinator</td>
       <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and OWASP training.</td>
-      <td>Azzeddine RAMRAMI<br/>Tarif EL OUADI<br/>Alaeddine MISBAHI<br/></td></tr>
+      <td>Azzeddine RAMRAMI<br/>Tarif EL OUADI<br/>Alaeddine MESBAHI<br/></td></tr>
     <tr><td>PR/Marketing Coordinator</td>
       <td>Provides marketing of AppSec Africa and other Chapter events.</td>
       <td>To be added</td></tr>
@@ -71,7 +71,7 @@ The previous Chapter Leader is designated as secondary approver, who also will a
       <td>Azzeddine RAMRAMI - Primary<br/>Tarif EL OUADI - Secondary</td></tr>
     <tr><td>Advisory Board Members</td>
       <td>Made up of previous Chapter leaders who provide mentoring, coaching, and assistance to the board and contribute to the Chapter’s success.</td>
-      <td>Azzeddine RAMRAMI<br/>Tarif EL OUADI<br/>Alaeddine MISBAHI<br/></td></tr>
+      <td>Azzeddine RAMRAMI<br/>Tarif EL OUADI<br/>Alaeddine MESBAHI<br/></td></tr>
 </table>
   
 [back to top](#owasp-morocco)
