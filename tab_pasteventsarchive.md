@@ -9,10 +9,8 @@ region: Africa
 
 
 ---
-
-
-![AppSec Morocco 2018](assets/images/120px-AppSec-MA-2018.png)
-![Mosquee_Hassan_II](assets/images/120px-Mosquee_Hassan_II.png)
+![AppSec Morocco 2018](assets/images/AppSec-MA-2018.png)
+![Mosquee_Hassan_II](assets/images/Mosquee_Hassan_II.png)
 
 # OWASP Morocco Presentation
 
