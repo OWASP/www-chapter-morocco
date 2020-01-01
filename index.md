@@ -10,45 +10,69 @@ region: Africa
 auto-migrated: 1
 
 ---
+[Upcoming Events](#upcoming-events)&nbsp;&nbsp;&nbsp;   [Chapter Leadership](#chapter-leadership)
 
+Welcome
+-------
+Welcome to the Morocco chapter homepage. The Chapter Leader is Azzeddine RAMRAMI. See below for [full list of all chapter leadership board](#chapter-leadership).
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+<hr/>
 
-{front matter for this file}
+Upcoming Events
+---------------
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+<table cellpadding="5" cellspacing="0" border="1">
+  <tr><th width="20%">Event</th><th>Details</th></tr>
+  <tr><td><strong>OWASP Morocco Chapter Meeting<br>February 5, 2020</strong></td>
+      <td>
+<strong>When:</strong> Wednesday, February 5th @ 08:00 AM - 6:00 PM <br/>
+<strong>Where:</strong> EHTP Casablanca/Morocco <br/>
+<strong>Title:</strong> OWASP Morocco Cyber Security dat at EHTP<br/>
+<br>
+<strong>SAVE THE DATE!  More details coming soon.</strong>
+      </td></tr>
+</table>
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+[back to top](#owasp-morocco)
+<hr>
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+Chapter Leadership
+------------------
+The chapter leadership board is as follows:
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+<table cellpadding="5" cellspacing="0" border="1">
+  <tr><th>Chapter Leadership Board Member Role</th>
+      <th width="50%">Responsibilities</th>
+      <th>Person(s)</th></tr>
+  <tr><td>Chapter Leader</td>
+      <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.</td>
+      <td>Azzeddine RAMRAMI</td></tr>
+    <tr><td>Sponsor Coordinator</td>
+      <td>Serves as the primary liaison between the Chapter and all sponsors, and solicits sponsors for the Chapter meetings, happy hours, AppSec Africa, and other events.</td>
+      <td>Azzeddine RAMRAMI<br/>Tarif EL OUADI<br/>Alaeddine MISBAHI<br/></td></tr>
+    <tr><td>Speaker Coordinator</td>
+      <td>Seeks and schedules speakers for monthly Chapter meetings, LASCON, and other events.</td>
+      <td>Tarif EL OUADI</td></tr>
+    <tr><td>Education Coordinator</td>
+      <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and OWASP training.</td>
+      <td>Azzeddine RAMRAMI<br/>Tarif EL OUADI<br/>Alaeddine MISBAHI<br/></td></tr>
+    <tr><td>PR/Marketing Coordinator</td>
+      <td>Provides marketing of AppSec Africa and other Chapter events.</td>
+      <td>To be added</td></tr>
+    <tr><td>Membership and Project Coordinator</td>
+      <td>Coordinates activities to grow individual and corporate memberships. Acts as project manager for events, such as LASCON, tracking assigned tasks and reporting progress.</td>
+      <td>Azzeddine RAMRAMI & Tarif EL OUADI</td></tr>
+    <tr><td>Events Committee</td>
+      <td>All of the Chapter Leadership Coordinators are responsible for coordinating aspects of events, including the annual Morocco Application Security Conference (AppSec Africa). The Chapter Leader acts as the committee chair.</td>
+      <td>Chapter Leadership Coordinators</td></tr>
+    <tr><td>Finance</td>
+      <td>The Chapter Leader is designated as primary person responsible for Chapter budget and Chapter expense approvals.
+The previous Chapter Leader is designated as secondary approver, who also will approve any expenses submitted by the Chapter Leader.</td>
+      <td>Azzeddine RAMRAMI - Primary<br/>Tarif EL OUADI - Secondary</td></tr>
+    <tr><td>Advisory Board Members</td>
+      <td>Made up of previous Chapter leaders who provide mentoring, coaching, and assistance to the board and contribute to the Chapter’s success.</td>
+      <td>Azzeddine RAMRAMI<br/>Tarif EL OUADI<br/>Alaeddine MISBAHI<br/></td></tr>
+</table>
+  
+[back to top](#owasp-morocco)
+<hr/>
