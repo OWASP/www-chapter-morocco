@@ -9,6 +9,8 @@ region: Africa
 
 
 ---
+
+
 [AppSec Morocco 2018](assets/images/120px-AppSec-MA-2018.png)
 [Mosquee_Hassan_II](assets/images/120px-Mosquee_Hassan_II.png)
 
