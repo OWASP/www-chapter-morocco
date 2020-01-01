@@ -51,7 +51,7 @@ The chapter leadership board is as follows:
       <td>Serves as the primary liaison between the Chapter and all sponsors, and solicits sponsors for the Chapter meetings, happy hours, AppSec Africa, and other events.</td>
       <td>Azzeddine RAMRAMI<br/>Tarif EL OUADI<br/>Alaeddine MISBAHI<br/></td></tr>
     <tr><td>Speaker Coordinator</td>
-      <td>Seeks and schedules speakers for monthly Chapter meetings, LASCON, and other events.</td>
+      <td>Seeks and schedules speakers for monthly Chapter meetings, AppSec Africa, and other events.</td>
       <td>Tarif EL OUADI</td></tr>
     <tr><td>Education Coordinator</td>
       <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and OWASP training.</td>
@@ -60,7 +60,7 @@ The chapter leadership board is as follows:
       <td>Provides marketing of AppSec Africa and other Chapter events.</td>
       <td>To be added</td></tr>
     <tr><td>Membership and Project Coordinator</td>
-      <td>Coordinates activities to grow individual and corporate memberships. Acts as project manager for events, such as LASCON, tracking assigned tasks and reporting progress.</td>
+      <td>Coordinates activities to grow individual and corporate memberships. Acts as project manager for events, such as AppSec Africa, tracking assigned tasks and reporting progress.</td>
       <td>Azzeddine RAMRAMI & Tarif EL OUADI</td></tr>
     <tr><td>Events Committee</td>
       <td>All of the Chapter Leadership Coordinators are responsible for coordinating aspects of events, including the annual Morocco Application Security Conference (AppSec Africa). The Chapter Leader acts as the committee chair.</td>
