@@ -52,7 +52,7 @@ OWASP Training Day at ONCF, 15th February 2019 in Rabat/Morocco
 Azzeddine RAMRAMI will run a one full day developper training on OWASP, on 15th February 2019.
 
 OWASP Morocco Chapter members running this session:
-
+<blockquote>
 Course Outline:
 
 1)        Introductions
@@ -78,7 +78,7 @@ Addition Labs:
 20)      Mini-Lab: XML Attacks
 21)      Security Hygiene
 22)      Final Lab: Hacking Contest
-
+</blockquote>
 **Speakers**:
 
 Azzeddine RAMRAMI
