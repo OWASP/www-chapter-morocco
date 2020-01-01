@@ -1,3 +1,7 @@
+
+![AppSec Morocco 2018](assets/images/AppSec-MA-2018.png)
+![Mosquee_Hassan_II](assets/images/Mosquee_Hassan_II.png)
+
 ### Morocco Information
 * [Join Morocco Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/austin-chapter)
 * [Become a Member](https://www.owasp.org/index.php/Membership)
