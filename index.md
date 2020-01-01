@@ -48,7 +48,7 @@ The chapter leadership board is as follows:
       <td>Azzeddine RAMRAMI</td></tr>
     <tr><td>Chapter Co-Leaders</td>
       <td>We are three chapter leaders to manage all OWASP Morocco Chapter activities, events and more.</td>
-      <td>Azzeddine RAMRAMI<br/>Tarif EL AOUADI<br/>Alaeddine MESBAHI<br/></td></tr>
+      <td>Tarif EL AOUADI<br/>Alaeddine MESBAHI<br/></td></tr>
     <tr><td>Speaker Coordinator</td>
       <td>Seeks and schedules speakers for monthly Chapter meetings, AppSec Africa, and other events.</td>
       <td>Tarif EL OUADI</td></tr>
