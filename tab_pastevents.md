@@ -26,12 +26,12 @@ A full training day at UP6P Bengruir Morocco.
 
 **Program:**
 Workshop Outline: Two sessions
-<blockquote>
-1) Introduction à l'OWASP:              09h00 - 09h30 
-2) L'état de l'art de la sécurité IoT   09h30 - 10h30  
-3) Secure Coding Java & .NET:  		      11h00 - 18h00 
+
+1)        Introduction à l'OWASP:              09h00 - 09h30
+2)        L'état de l'art de la sécurité IoT   09h30 - 10h30
+3)        Secure Coding Java & .NET:  		      11h00 - 18h00
   
-</blockquote>
+
 **Program:**
 
 Abdessalam JAY
@@ -53,7 +53,7 @@ OWASP Training Day at ONCF, 15th February 2019 in Rabat/Morocco
 Azzeddine RAMRAMI will run a one full day developper training on OWASP, on 15th February 2019.
 
 OWASP Morocco Chapter members running this session:
-<blockquote>
+
 Course Outline:
 
 1)        Introductions
@@ -79,7 +79,7 @@ Addition Labs:
 20)      Mini-Lab: XML Attacks
 21)      Security Hygiene
 22)      Final Lab: Hacking Contest
-</blockquote>
+
 **Speakers**:
 
 Azzeddine RAMRAMI
