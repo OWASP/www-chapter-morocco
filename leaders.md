@@ -1,4 +1,4 @@
-### Leaders
+### Leader
 
 * [Azzeddine RAMRAMI](mailto://azzeddine.ramrami@owasp.org)
 
