@@ -80,40 +80,43 @@ Addition Labs:
 21)      Security Hygiene
 22)      Final Lab: Hacking Contest
 
-**Speakers**:
+**Speakers:**
 
 Azzeddine RAMRAMI
 Abdessamad TEMMAR
 Abdessalam EL JAY
 
-**Sponsors**: Munisys
+**Sponsors:** Munisys
 
 Sponsor of this event: MUNISYS (http://www.munisys.net.ma/)
 
 [Back to Top](#past-events)
 
-### 2019 ###
----
-
-### OWASP Morocco Chapter Meeting ###
-
-**When:** OWASP Training Day, 27 June 2019
-
-**Where:** at UM6P, Bengruir Morocco
-
-A full training day at UP6P Bengruir Morocco.
-
-[Back to Top](#past-events)
 
 ### 2018 ###
 ---
 
 ### OWASP AppSec Morocco & Africa 2018 ###
 
-**When:** OWASP Training Day, 27 June 2019
+**Where:** November 15-16, 2018
+**When:** Hotel Val d'Anfa, Casablanca/Morocco
 
-**Where:** at UM6P, Bengruir Morocco
+Welcome to the second edition of OWASP AppSec Morocco and Africa in Casablanca, Hotel Val d'Anfa on November 15-16, 2018.
 
-A full training day at UP6P Bengruir Morocco.
+**Program:** See here https://2018.appsecmorocco.org/agenda/
+
+At AppSec Morocco & Africa you can connect with over 250 security professionals in our sponsor hall. Our floor plan is designed to allow you to engage with speakers and attendees.
+
+Thank you to the Sponsors of Appsec Morocco & Africa 2018 :
+
+**Speakers**: see here
+
+https://2018.appsecmorocco.org/speakers/
+
+**Sponsors**:
+https://2018.appsecmorocco.org/sponsors/
+
+Here the final list of our speakers from differents countries including Africa (Morocco and Algerie), Canada, Europe and Asia.
+
 
 [Back to Top](#past-events)
