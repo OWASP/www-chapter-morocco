@@ -1,7 +1,7 @@
 ---
 
 layout: pasteventsarchive
-title: OWASP Morocco
+title: Past Events Archive
 tags: morocco
 level: 4
 
