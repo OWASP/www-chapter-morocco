@@ -3,7 +3,7 @@
 layout: pasteventsarchive
 title: Past Events Archive
 tags: morocco
-level: 4
+level: 2
 
 region: Africa
 
