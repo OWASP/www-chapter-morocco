@@ -1,8 +1,8 @@
 ---
 
-layout: col-sidebar
+layout: pasteventsarchive
 title: OWASP Morocco
-tags: example-tag
+tags: morocco
 level: 4
 
 region: Africa
