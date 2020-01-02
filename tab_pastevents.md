@@ -33,9 +33,9 @@ Workshop Outline: Two sessions
 
 **Program:**
 
-Abdessalam JAY
-Othmane TAMAGARTI
-Azzeddine RAMRAMI
+- Abdessalam JAY
+- Othmane TAMAGARTI
+- Azzeddine RAMRAMI
 
 **Sponsors:** Sponsor of this event: Adam Ridson https://www.adamridson.com/
 
@@ -55,35 +55,30 @@ OWASP Morocco Chapter members running this session:
 
 Course Outline:
 
-1)        Introductions
-2)        Agenda
-3)        Secure Development Lifecycle (SDLC)
-4)        Lab: Threat Modeling
-5)        Principles of Secure Code
-6)        Authentication & Authorization
-7)        Lab: Access Control
-8)        Mini-Lab: Weak Session Identifiers
-9)        Session Management
-10)      Lab: SQL Injection
-11)      Lab: Cross-Site Scripting
-12)      Input Validation
-13)      Lab: SQL Injection Patching
-14)      Lab: Cross-Site Scripting Patching
-15)      Proper Encryption
-16)      Mini-Lab: Hash Breaking
-17)      Logic Flaws
-18)      Lab: Logic Flaw Exploitation
-Addition Labs:
-19)      Other Attacks
-20)      Mini-Lab: XML Attacks
-21)      Security Hygiene
-22)      Final Lab: Hacking Contest
+- Introductions
+- Agenda
+- Secure Development Lifecycle (SDLC)
+- Lab: Threat Modeling
+- Principles of Secure Code
+- Authentication & Authorization
+- Lab: Access Control
+- Mini-Lab: Weak Session Identifiers
+- Session Management
+- Lab: SQL Injection
+- Lab: Cross-Site Scripting
+- Input Validation
+- Lab: SQL Injection Patching
+- Lab: Cross-Site Scripting Patching
+- Proper Encryption
+- Mini-Lab: Hash Breaking
+- Logic Flaws
+- Lab: Logic Flaw Exploitation
 
 **Speakers:**
 
-Azzeddine RAMRAMI
-Abdessamad TEMMAR
-Abdessalam EL JAY
+- Azzeddine RAMRAMI
+- Abdessamad TEMMAR
+- Abdessalam EL JAY
 
 **Sponsors:** Munisys
 
