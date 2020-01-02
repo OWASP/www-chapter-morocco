@@ -3,7 +3,6 @@
 layout: col-sidebar
 title: OWASP Morocco
 tags: example-tag
-level: 1
 
 region: Africa
 
