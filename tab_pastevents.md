@@ -26,9 +26,9 @@ A full training day at UP6P Bengruir Morocco.
 **Program:**
 Workshop Outline: Two sessions
 
-1)        Introduction à l'OWASP:              09h00 - 09h30
-2)        L'état de l'art de la sécurité IoT   09h30 - 10h30
-3)        Secure Coding Java & .NET:  		      11h00 - 18h00
+- Introduction à l'OWASP:              09h00 - 09h30
+- L'état de l'art de la sécurité IoT   09h30 - 10h30
+- Secure Coding Java & .NET:  		     11h00 - 18h00
   
 
 **Program:**
