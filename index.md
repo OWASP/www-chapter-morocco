@@ -28,7 +28,7 @@ Upcoming Events
 <strong>Where:</strong> EHTP Casablanca/Morocco <br/>
 <strong>Title:</strong> OWASP Morocco Cyber Security dat at EHTP<br/>
 <br>
-<strong>SAVE THE DATE!  More details coming soon.</strong>
+<strong>SAVE THE DATE! Here the full program.</strong>
       </td></tr>
 </table>
 
