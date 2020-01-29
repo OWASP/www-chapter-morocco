@@ -16,9 +16,7 @@ region: Africa
 Our mission is to enrich Morocco's application security community and cyber security community. We
 hope you can join us in accomplishing that.
 
-## Events
-
-### Upcoming Events
+## Upcoming Events
 
 OWASP Morocco Chapter Meeting<br>February 5, 2020
 When: Wednesday, February 5th @ 08:00AM - 6:00PM
@@ -29,8 +27,8 @@ Have a look at [our full program](https://github.com/OWASP/www-chapter-morocco/b
 [back to top](#owasp-morocco)
 
 
-Chapter Leadership
-------------------
+## Chapter Leadership
+
 The chapter leadership board is as follows:
 
 <table cellpadding="5" cellspacing="0" border="1">
