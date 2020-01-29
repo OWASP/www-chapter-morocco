@@ -18,11 +18,11 @@ hope you can join us in accomplishing that.
 
 ## Upcoming Events
 
-OWASP Morocco Chapter Meeting<br>February 5, 2020
-When: Wednesday, February 5th @ 08:00AM - 6:00PM
-Where:EHTP Casablanca/Morocco
-Title:OWASP Morocco Cyber Security dat at EHTP
-Have a look at [our full program](https://github.com/OWASP/www-chapter-morocco/blob/master/assets/Owsap.Ehtp.05022020-Final-Program.pdf) and join us\!
+* OWASP Morocco Chapter Meeting<br>February 5, 2020
+* When: Wednesday, February 5th @ 08:00AM - 6:00PM
+* Where:EHTP Casablanca/Morocco
+* Title:OWASP Morocco Cyber Security dat at EHTP
+* Have a look at [our full program](https://github.com/OWASP/www-chapter-morocco/blob/master/assets/Owsap.Ehtp.05022020-Final-Program.pdf) and join us\!
 
 [back to top](#owasp-morocco)
 
