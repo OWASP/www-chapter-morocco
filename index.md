@@ -29,6 +29,7 @@ Upcoming Events
 <strong>Title:</strong> OWASP Morocco Cyber Security dat at EHTP<br/>
 <br>
 <strong>SAVE THE DATE! Here the full program.</strong>
+        https://github.com/OWASP/www-chapter-morocco/blob/master/assets/Owsap.Ehtp.05022020(Final%20Program).pdf
       </td></tr>
 </table>
 
