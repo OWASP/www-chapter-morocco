@@ -22,8 +22,8 @@ hope you can join us in accomplishing that.
 * When: Wednesday, February 5th @ 08:00AM - 6:00PM
 * Where:EHTP Casablanca/Morocco
 * Title:OWASP Morocco Cyber Security dat at EHTP
-* Have a look at [our full program](assets/images/Owsap.Ehtp.05022020-Final-Program.png) and join us\!
-
+* Have a look at our full program and join us\!
+![Full Program](assets/images/Owsap.Ehtp.05022020-Final-Program.png)
 [back to top](#Welcome)
 
 
