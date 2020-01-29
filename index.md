@@ -24,7 +24,7 @@ hope you can join us in accomplishing that.
 * Title:OWASP Morocco Cyber Security dat at EHTP
 * Have a look at [our full program](https://github.com/OWASP/www-chapter-morocco/blob/master/assets/Owsap.Ehtp.05022020-Final-Program.pdf) and join us\!
 
-[back to top](#owasp-morocco)
+[back to top](#Welcome)
 
 
 ## Chapter Leadership
@@ -65,5 +65,5 @@ The previous Chapter Leader is designated as secondary approver, who also will a
       <td>Azzeddine RAMRAMI<br/>Tarif EL OUADI<br/>Alaeddine MISBAHI<br/></td></tr>
 </table>
   
-[back to top](#owasp-morocco)
+[back to top](#Welcome)
 <hr/>
