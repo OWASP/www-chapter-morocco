@@ -22,7 +22,7 @@ hope you can join us in accomplishing that.
 * Where:ENSIAS Rabat/Morocco
 * Title:OWASP Morocco DevSecOps Workshop at MCSC 2020 ENSIAS
 * Have a look at our full program and join us\! 
-- [- Register here:](https://www.eventbrite.com/e/owasp-devsecops-workshop-day-at-mcsc-2020-at-ensias-on-2829-feb-2020-tickets-96421135211?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+- [Register here:](https://www.eventbrite.com/e/owasp-devsecops-workshop-day-at-mcsc-2020-at-ensias-on-2829-feb-2020-tickets-96421135211?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
 ## Past  Events
 
