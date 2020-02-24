@@ -15,14 +15,14 @@ region: Africa
 
 Our mission is to enrich Morocco's application security community and cyber security community. We
 hope you can join us in accomplishing that.
-## Past  Events
+
+## Unpcoming Events
 
 * OWASP Morocco ChapterDevSecOps Training three hours workshop<br>March 28/29, 2020
 * When: Sunday 2pm, Saturday 9am
 * Where:ENSIAS Rabat/Morocco
 * Title:OWASP Morocco DevSecOps Workshop at MCSC 2020 ENSIAS
-* Have a look at our full program and join us\! 
-- [Register here:](https://www.eventbrite.com/e/owasp-devsecops-workshop-day-at-mcsc-2020-at-ensias-on-2829-feb-2020-tickets-96421135211?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+* Have a look at our full program and join us\! [Register here:](https://www.eventbrite.com/e/owasp-devsecops-workshop-day-at-mcsc-2020-at-ensias-on-2829-feb-2020-tickets-96421135211?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
 ## Past  Events
 
