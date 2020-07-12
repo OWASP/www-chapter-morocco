@@ -1,6 +1,6 @@
 ---
 title: sponsorship
-displaytext: Sponsorship Opportunities
+displaytext: Sponsorship
 layout:  null
 tab: true
 order: 4
