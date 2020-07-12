@@ -8,7 +8,6 @@ region: Africa
 
 
 ---
-[Upcoming Events](#upcoming-events)   [Chapter Leadership](#chapter-leadership)
 
 ## Welcome
 
