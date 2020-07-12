@@ -1,12 +1,10 @@
 ---
-
-layout: pasteventsarchive
-title: Past Events Archive
-tags: morocco
-level: 2
-
-region: Africa
-
+title: pasteventsarchive
+displaytext: Past Events Archive
+layout:  null
+tab: true
+order: 3
+tags: pasteventsarchive-tag
 
 ---
 ![AppSec Morocco 2018](assets/images/AppSec-MA-2018.png)
