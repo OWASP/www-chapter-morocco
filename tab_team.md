@@ -1,6 +1,6 @@
 ---
 title: team
-displaytext: Past Events
+displaytext: Team & Organization
 layout:  null
 tab: true
 order: 5
