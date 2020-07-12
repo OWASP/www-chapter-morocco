@@ -4,7 +4,7 @@ displaytext: Past Events Archive
 layout:  null
 tab: true
 order: 3
-tags: pasteventsarchive-tag
+tags: morocco-tag
 
 ---
 ![AppSec Morocco 2018](assets/images/AppSec-MA-2018.png)
