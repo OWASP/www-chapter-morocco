@@ -12,8 +12,10 @@ region: Africa
 
 ## Welcome
 
+Welcome to the OWASP
 Our mission is to enrich Morocco's application security community and cyber security community. We
 hope you can join us in accomplishing that.
+[Morocco Ouzoud](https://meta.wikimedia.org/wiki/Wikimedia_MA_User_Group/Events#/media/File:Ouzoud_waterfalls_In_spring-Morocco.jpg) chapter home page
 
 ## Unpcoming Event
 ### Upcoming Event- Hands-on on Secure Programming & Secure Coding Standards !!! Remote Session for Tunisia Chapter
