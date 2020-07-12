@@ -1,6 +1,6 @@
 ---
 title: pasteventsarchive
-displaytext: Past Events Archive
+displaytext: AppSec Africa
 layout:  null
 tab: true
 order: 3
