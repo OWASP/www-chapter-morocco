@@ -4,7 +4,6 @@ layout: col-sidebar
 title: OWASP Morocco
 tags: pastevents-tag participation-tag sponsorship-tag
 level: 0
-
 region: Africa
 
 
@@ -17,15 +16,56 @@ Our mission is to enrich Morocco's application security community and cyber secu
 hope you can join us in accomplishing that.
 
 ## Unpcoming Event
+### Upcoming Event- Hands-on on Secure Programming & Secure Coding Standards !!! Remote Session for Tunisia Chapter
 
+[Take your Ticket Here!!!](https://www.eventbrite.com/e/hands-on-on-secure-programming-secure-coding-standards-tickets-113083056466)
+
+#### Our Speaker - Azzeddine RAMRAMI
+
+    - IBM Security - Senior Security & Network Architect
+    - OWASP Morocco Chapter
+    - OWASP AppSec Africa President
+    - Data & Application Security, Cogntive Security, IoT/OT/ICS/SCADA Security & SIEM
+    - Professor/instructor and an expert information security development with over 22 years of 
+       experience in the security, secure coding, network and telecommunication arena.
+    - Certified Mile2 CPTE/CPTC/CDFE/CSWAE and EC-Council C|EH
+
+#### Hands-on Description
+Generally, it is much less expensive to build secure software than to correct security issues after the software package has been completed, not to mention the costs that may be associated with a security breach. We will discuss how to embed security in the SDLC and how to design a secure application architecture.
+
+The following areas will presented:
+
+     1. Software Security and Risk Principles Overview
+     2. Secure Coding Standards for Java, C/C++
+     3. Secure Coding Practices Checklist
+         - Input Validation
+         - Output Encoding
+         - Authentication and Password Management
+         - Session Management
+         - Access Control
+         - Cryptographic Practices
+         - Error Handling and Logging
+         - Data Protection
+         - Communication Security
+         - System Configuration
+         - Database Security
+         - File Management
+         - Memory Management
+       4. General Coding Practices & Code Quality
+
+## Past  Event
+
+### Past  Event : DevSecOps Training for EGE/Paris July 5, 2020 via GotoMeeting
+
+
+### Past  Event : Event at ENSIAS March 28/29, 2020
 * OWASP Morocco Chapter - DevSecOps training workshop<br>March 28/29, 2020
 * When: Sunday 2pm, Saturday 9am
 * Where:ENSIAS Rabat/Morocco
 * Title:OWASP Morocco DevSecOps Workshop at MCSC 2020 ENSIAS
 * Have a look at our full program, bring your laptop and join us\! [Register here:](https://www.eventbrite.com/e/owasp-devsecops-workshop-day-at-mcsc-2020-at-ensias-on-2829-feb-2020-tickets-96421135211?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
-## Past  Event
-
+### Past  Event : Event at EHTP/Casablanca Feb 5, 2020
 * OWASP Morocco Chapter Meeting<br>February 5, 2020
 * When: Wednesday, February 5th @ 08:00AM - 6:00PM
 * Where:EHTP Casablanca/Morocco
@@ -50,13 +90,13 @@ The chapter leadership board is as follows:
       <td>Azzeddine RAMRAMI</td></tr>
     <tr><td>Sponsor Coordinator</td>
       <td>Serves as the primary liaison between the Chapter and all sponsors, and solicits sponsors for the Chapter meetings, happy hours, AppSec Africa, and other events.</td>
-      <td>Azzeddine RAMRAMI<br/>Tarik EL OUADI<br/>Alaeddine MISBAHI<br/></td></tr>
+      <td>Azzeddine RAMRAMI<br/>Tarik EL OUADI<br/></td></tr>
     <tr><td>Speaker Coordinator</td>
       <td>Seeks and schedules speakers for monthly Chapter meetings, AppSec Africa, and other events.</td>
       <td>Tarik EL OUADI</td></tr>
     <tr><td>Education Coordinator</td>
       <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and OWASP training.</td>
-      <td>Azzeddine RAMRAMI<br/>Tarik EL OUADI<br/>Alaeddine MISBAHI<br/></td></tr>
+      <td>Azzeddine RAMRAMI<br/>Tarik EL OUADI<br/></td></tr>
     <tr><td>PR/Marketing Coordinator</td>
       <td>Provides marketing of AppSec Africa and other Chapter events.</td>
       <td>To be added</td></tr>
@@ -72,7 +112,7 @@ The previous Chapter Leader is designated as secondary approver, who also will a
       <td>Azzeddine RAMRAMI - Primary<br/>Tarik EL OUADI - Secondary</td></tr>
     <tr><td>Advisory Board Members</td>
       <td>Made up of previous Chapter leaders who provide mentoring, coaching, and assistance to the board and contribute to the Chapter’s success.</td>
-      <td>Azzeddine RAMRAMI<br/>Tarik EL OUADI<br/>Alaeddine MISBAHI<br/></td></tr>
+      <td>Azzeddine RAMRAMI<br/>Tarik EL OUADI<br/></td></tr>
 </table>
   
 [back to top](#Welcome)
