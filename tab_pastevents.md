@@ -4,7 +4,7 @@ displaytext: Past Events
 layout:  null
 tab: true
 order: 1
-tags: pastevents-tag
+tags: morocco-tag
 
 ---
 
