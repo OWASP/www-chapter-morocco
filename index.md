@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Morocco
-tags: pastevents-tag participation-tag sponsorship-tag
+tags: morocco-tag
 level: 0
 region: Africa
 
