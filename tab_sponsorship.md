@@ -3,8 +3,8 @@ title: sponsorship
 displaytext: Sponsorship Opportunities
 layout:  null
 tab: true
-order: 3
-tags: morocco
+order: 4
+tags: morocco-tag
 
 ---
 
