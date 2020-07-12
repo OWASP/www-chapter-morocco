@@ -7,6 +7,7 @@ order: 1
 tags: morocco-tag
 
 ---
+## Upcoming Event July 2020 - Online Conference
 
 ### Upcoming Event- Hands-on on Secure Programming & Secure Coding Standards for OWASP Tunisia
 
