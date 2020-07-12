@@ -3,7 +3,7 @@ title: pastevents
 displaytext: Past Events
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: morocco-tag
 
 ---
