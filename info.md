@@ -3,6 +3,7 @@
 ![Mosquee_Hassan_II](assets/images/Mosquee_Hassan_II.png)
 
 ### Morocco Information
+* [Meetup](https://www.meetup.com/OWASP-Morocco-Meetup-Group/)
 * [Join Morocco Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/morocco-chapter)
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Local Chapter Support](https://www.owasp.org/index.php/Local_Chapter_Supporter)
