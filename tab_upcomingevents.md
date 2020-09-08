@@ -10,8 +10,8 @@ tags: morocco-tag
 ## Upcoming Event Novmebre 2020 - Online  Cyber Security Training
 
 Our AppSec Africa 2020 will be Online due to Covid-19 pandemic.
-[We will publish the agenda in our Meetup and here: (website under construction) ](https://appsecafrica.com/)
-[Take your Ticket Here!!!](https://www.meetup.com/fr-FR/Morocco-OWASP-Meetup-Group/)
+- [We will publish the agenda in our Meetup and here: (website under construction) ](https://appsecafrica.com/)
+- [Take your Ticket Here!!!](https://www.meetup.com/fr-FR/Morocco-OWASP-Meetup-Group/)
 
 ## Upcoming Event July 2020 - Online Conference
 
