@@ -21,11 +21,36 @@ The blockchain database isn't stored in any single location, meaning the records
 
 ### Program
 
-Security Features of Blockchain
+     1. Blockchain: How its work
+     2. Security Features of Blockchain
+     3. How cryptocurrency Works
+     4. What are miners and what is their role?
+     5. Properties of Crypto currency
+     6. Popular Cryptocurrencies
+     7. Security issues in Blockchain
+     8. Security issues in Cryptocurrencies
+     9. Tips for cryptocurrency holders and crypto-investors
 
+### Subscription (Free)
 
+Please contact me at azzeddine.ramrami(at)owasp.org
 
+### Event Mode: online
+
+Online link will be sent by email to subscribed person.
 
 ## Upcoming Event January 2021 - Android and iOS Security and Hacking
 
 ### Hand-on during 1 full day.
+
+### Program
+
+Program will published by the end of december 2020.
+
+### Subscription (Free)
+
+Subscription will published by the end of december 2020.
+
+### Event Mode: online
+
+Online link will be sent by email to subscribed person.
