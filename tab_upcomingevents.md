@@ -7,47 +7,18 @@ order: 1
 tags: morocco-tag
 
 ---
-## Upcoming Event Novmebre 2020 - Online  Cyber Security Training
+## Upcoming Event December 2020 - Blockchain and Crypto Money Security
 
-Our AppSec Africa 2020 will be Online due to Covid-19 pandemic.
-- [We will publish the agenda in our Meetup and here: (website under construction) ](https://appsecafrica.com/)
-- [Take your Ticket Here!!!](https://www.meetup.com/fr-FR/Morocco-OWASP-Meetup-Group/)
+The blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just nancial transactions but virtually everything of value. Picture a spreadsheet that is duplicated thousands of times across a network of computers. 
 
-## Upcoming Event July 2020 - Online Conference
+Then imagine that this network is designed to regularly update this spreadsheet and you have a basic understanding of the blockchain. 
 
-### Upcoming Event- Hands-on on Secure Programming & Secure Coding Standards for OWASP Tunisia
+Information held on a blockchain exists as a shared and continually reconciled database. This way of using the network has many benets. 
 
-[Take your Ticket Here!!!](https://www.eventbrite.com/e/hands-on-on-secure-programming-secure-coding-standards-tickets-113083056466)
+The blockchain database isn't stored in any single location, meaning the records it keeps are truly public and easily veriable. No centralized version of this information exists for a hacker to corrupt. Hosted by millions of computers simultaneously, its data is accessible to anyone on the internet.
 
-#### Our Speaker - Azzeddine RAMRAMI
+### Architecture Talk during 2 hours.
 
-    - IBM Security - Senior Security & Network Architect
-    - OWASP Morocco Chapter
-    - OWASP AppSec Africa President
-    - Data & Application Security, Cogntive Security, IoT/OT/ICS/SCADA Security & SIEM
-    - Professor/instructor and an expert information security development with over 22 years of 
-       experience in the security, secure coding, network and telecommunication arena.
-    - Certified Mile2 CPTE/CPTC/CDFE/CSWAE and EC-Council C|EH
+## Upcoming Event January 2021 - Android and iOS Security and Hacking
 
-#### Hands-on Description
-Generally, it is much less expensive to build secure software than to correct security issues after the software package has been completed, not to mention the costs that may be associated with a security breach. We will discuss how to embed security in the SDLC and how to design a secure application architecture.
-
-The following areas will presented:
-
-     1. Software Security and Risk Principles Overview
-     2. Secure Coding Standards for Java, C/C++
-     3. Secure Coding Practices Checklist
-         - Input Validation
-         - Output Encoding
-         - Authentication and Password Management
-         - Session Management
-         - Access Control
-         - Cryptographic Practices
-         - Error Handling and Logging
-         - Data Protection
-         - Communication Security
-         - System Configuration
-         - Database Security
-         - File Management
-         - Memory Management
-       4. General Coding Practices & Code Quality
+### Hand-on during 1 full day.
