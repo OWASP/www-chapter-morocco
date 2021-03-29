@@ -7,9 +7,9 @@ order: 1
 tags: morocco-tag
 
 ---
-## Upcoming Event 15th, March 2021 - Secure Coding for PHP at Le Groupe Le Mating Soir
+## Upcoming Event 5th, April 2021 - Secure Coding for PHP
 
-During 2 hours this session will teach how to secure code your web application using PHP language.
+During 4 hours this session will teach how to secure code your web application using PHP language.
 We will discuss the security features in the PHP framework called YII https://www.yiiframework.com/, and how this framework meet secure coding standard for PHP.
 
 ### Hand-on Session during 2 hours.
