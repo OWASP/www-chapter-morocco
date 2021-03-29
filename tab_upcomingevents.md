@@ -9,8 +9,8 @@ tags: morocco-tag
 ---
 ## Upcoming Event 5th, April 2021 - Secure Coding for PHP
 
-During 4 hours this session will teach how to secure code your web application using PHP language.
-We will discuss the security features in the PHP framework called YII https://www.yiiframework.com/, and how this framework meet secure coding standard for PHP.
+During 3 hours this session will teach how to secure code your web application using PHP language.
+We will discuss the security features in the PHP by using some framework like YII https://www.yiiframework.com/, and how this framework meet secure coding standard for PHP.
 
 ### Hand-on Session during 3 hours.
 
@@ -34,7 +34,6 @@ Please contact me at azzeddine.ramrami(at)owasp.org
 
 ### Event Mode: online
 
-Online Good Meet ink will be sent by email to subscribed person.
 
 ## Upcoming Event June 2021 - Advanced Web Attacks
 
