@@ -30,10 +30,10 @@ Good security is vital to the health and success of any application. Unfortunate
 
 ### Subscription (Free)
 
-Please contact me at azzeddine.ramrami(at)owasp.org
+https://www.meetup.com/fr-FR/Morocco-OWASP-Meetup-Group/events/277246393/
 
 ### Event Mode: online
-
+Via Zoom. Link will be shared 1 hour before the event.
 
 ## Upcoming Event June 2021 - Advanced Web Attacks
 
