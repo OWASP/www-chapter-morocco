@@ -12,7 +12,7 @@ tags: morocco-tag
 During 4 hours this session will teach how to secure code your web application using PHP language.
 We will discuss the security features in the PHP framework called YII https://www.yiiframework.com/, and how this framework meet secure coding standard for PHP.
 
-### Hand-on Session during 2 hours.
+### Hand-on Session during 3 hours.
 
 ### Program
 
