@@ -7,12 +7,14 @@ order: 1
 tags: morocco-tag
 
 ---
-## Upcoming Event 5th, April 2021 - Secure Coding for PHP
+## Upcoming Event 24th, April 2021 at 10am Morocco Time
 
-During 3 hours this session will teach how to secure code your web application using PHP language.
-We will discuss the security features in the PHP by using some framework like YII https://www.yiiframework.com/, and how this framework meet secure coding standard for PHP.
+### PHP Secure Coding Section 2: Web Security Foundations
+
+### Date: Saturday 24, April 2021
 
 ### Hand-on Session during 3 hours.
+During 3 hours this session will teach how to secure code your web application using PHP language. We will discuss the security features in the PHP by using some framework like YII, and how this framework meet secure coding standard for PHP.
 
 ### Program
 
@@ -30,10 +32,17 @@ Good security is vital to the health and success of any application. Unfortunate
 
 ### Subscription (Free)
 
-https://www.meetup.com/fr-FR/Morocco-OWASP-Meetup-Group/events/277246393/
+https://www.meetup.com/fr-FR/Morocco-OWASP-Meetup-Group/events/277376480/
+
+### Download all materials here:
+https://drive.google.com/drive/u/2/folders/1W4HOlKGZBDUOeN-6VEkTTfWOEgPP5SyU
+
+Attention: access allowed only to the attendees during the session.
 
 ### Event Mode: online
-Via Zoom. Link will be shared 1 hour before the event.
+
+Link via Google Meet: https://meet.google.com/ukh-nkht-hoi
+
 
 ## Upcoming Event June 2021 - Advanced Web Attacks
 
