@@ -7,11 +7,11 @@ order: 1
 tags: morocco-tag
 
 ---
-## Upcoming Event 24th, April 2021 at 10am Morocco Time
+## Upcoming Event 8th, May  2021 at 10am Morocco Time
 
 ### PHP Secure Coding Section 2: Web Security Foundations
 
-### Date: Saturday 24, April 2021
+### Date: Saturday 08, April 2021
 
 ### Hand-on Session during 3 hours.
 During 3 hours this session will teach how to secure code your web application using PHP language. We will discuss the security features in the PHP by using some framework like YII, and how this framework meet secure coding standard for PHP.
