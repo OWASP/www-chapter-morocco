@@ -48,12 +48,13 @@ Link via Google Meet: https://meet.google.com/ukh-nkht-hoi
 ### Hand-on during 2 hours slides and demo.
 
 ### Program
-Les trois piliers fondamentaux de la méthodologie DevSecOps sont donc :
+Nous allons discuter durant ce webinar les trois piliers fondamentaux de la méthodologie DevSecOps sont donc :
 
-L’automatisation : tout comme DevOps tourne autour de l’automatisation lors des phases de build, le concept DevSecOps se concentre sur l’automatisation de la sécurité dans ces phases. Il s’agit d’industrialiser les vérifications de sécurité en éliminant le besoin de le faire manuellement au niveau de chaque développeur.
-Le correspondant sécurité dans l’équipe de développeurs que l’on peut appeler aussi "champion de la sécurité".
-L’outillage : les différentes approches du DevSecOps peuvent être outillées (tests, gestion de la confidentialité, modélisation des menaces, équipe de build).
+1. L’automatisation : tout comme DevOps tourne autour de l’automatisation lors des phases de build, le concept DevSecOps se concentre sur l’automatisation de la sécurité dans ces phases. Il s’agit d’industrialiser les vérifications de sécurité en éliminant le besoin de le faire manuellement au niveau de chaque développeur.
+2. Le correspondant sécurité dans l’équipe de développeurs que l’on peut appeler aussi "champion de la sécurité".
+3. L’outillage : les différentes approches du DevSecOps peuvent être outillées (tests, gestion de la confidentialité, modélisation des menaces, équipe de build).
 
+Une démonstration d'une chaine DevSecOps sera faite durant ce webinar.
 ### Subscription (Free)
 Merci de s'inscire via ce lien Meetup
 
