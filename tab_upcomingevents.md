@@ -44,18 +44,21 @@ Attention: access allowed only to the attendees during the session.
 Link via Google Meet: https://meet.google.com/ukh-nkht-hoi
 
 
-## Upcoming Event June 2021 - Advanced Web Attacks
-
-### Hand-on during 1 full day.
+## Upcoming Event 15 Mai 2021 - DevSecOps Detox en collaboration avec OpenLAB Abidjan
+### Hand-on during 2 hours slides and demo.
 
 ### Program
+Les trois piliers fondamentaux de la méthodologie DevSecOps sont donc :
 
-Program will published by the end of April 2021.
+L’automatisation : tout comme DevOps tourne autour de l’automatisation lors des phases de build, le concept DevSecOps se concentre sur l’automatisation de la sécurité dans ces phases. Il s’agit d’industrialiser les vérifications de sécurité en éliminant le besoin de le faire manuellement au niveau de chaque développeur.
+Le correspondant sécurité dans l’équipe de développeurs que l’on peut appeler aussi "champion de la sécurité".
+L’outillage : les différentes approches du DevSecOps peuvent être outillées (tests, gestion de la confidentialité, modélisation des menaces, équipe de build).
 
 ### Subscription (Free)
+Merci de s'inscire via ce lien Meetup
 
-Subscription will published by the end of december 2020.
+https://www.meetup.com/fr-FR/Morocco-OWASP-Meetup-Group/events/277376480/
 
 ### Event Mode: online via Google Meet
 
-Online Google Meet link will be sent by email to subscribed person.
+https://meet.google.com/ukh-nkht-hoi
