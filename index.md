@@ -9,6 +9,7 @@ region: Africa
 
 ---
 
+
 ## Welcome
 
 Welcome to the OWASP
@@ -26,4 +27,11 @@ As a visitor, you will enjoy every modern convenience and pleasure. For your acc
 
 Morocco is striving to avoid the pitfalls of modern life, especially when it comes to the environment, by favoring tourism practices that are respectful of the Earth and local communities. As the author of a sustainable tourism charter and host of COP22, Morocco is on the front lines to preserve our planet.
 
+#### Call For Speakers
+
+With the Morocco chapter, we aim to organize at least 6 local chapter meetings per year.  If you would like to present a talk on Application Security at future OWASP Morocco Chapter events, feel free to reach out to us and let us know - we'd love to have you join us!  [Meetup.com](https://owasp.org/www-chapter-morocco/)
+
+Upcoming Meeting/Event(s)
+---------------------
 {% include chapter_events.html group=page.meetup-group %}
+
