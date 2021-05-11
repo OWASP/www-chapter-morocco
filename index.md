@@ -25,3 +25,5 @@ Morocco is a firmly future-focused country that has succeeded in preserving its 
 As a visitor, you will enjoy every modern convenience and pleasure. For your accommodations, Morocco is full of hotels in every price range from the major international chains. Plus it also has the biggest international ready-to-wear shops, which are taking advantage of the ideal opportunity for positioning in a fast developing country.
 
 Morocco is striving to avoid the pitfalls of modern life, especially when it comes to the environment, by favoring tourism practices that are respectful of the Earth and local communities. As the author of a sustainable tourism charter and host of COP22, Morocco is on the front lines to preserve our planet.
+
+{% include chapter_events.html group=page.meetup-group %}
