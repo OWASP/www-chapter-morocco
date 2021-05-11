@@ -33,7 +33,7 @@ With the Morocco chapter, we aim to organize at least 6 local chapter meetings p
 
 Upcoming Meeting/Event(s)
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+{% include chapter_events.html group=page.Morocco-OWASP-Meetup-Group %}
 
 **Code of Conduct**:
 
