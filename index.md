@@ -29,7 +29,7 @@ Morocco is striving to avoid the pitfalls of modern life, especially when it com
 
 #### Call For Speakers
 
-With the Morocco chapter, we aim to organize at least 6 local chapter meetings per year.  If you would like to present a talk on Application Security at future OWASP Morocco Chapter events, feel free to reach out to us and let us know - we'd love to have you join us!  [Meetup.com](https://owasp.org/www-chapter-morocco/)
+With the Morocco chapter, we aim to organize at least 6 local chapter meetings per year.  If you would like to present a talk on Application Security at future OWASP Morocco Chapter events, feel free to reach out to us and let us know - we'd love to have you join us!  [Meetup.com](https://www.meetup.com/fr-FR/Morocco-OWASP-Meetup-Group/)
 
 Upcoming Meeting/Event(s)
 ---------------------
