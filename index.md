@@ -33,7 +33,7 @@ With the Morocco chapter, we aim to organize at least 6 local chapter meetings p
 
 Upcoming Meeting/Event(s)
 ---------------------
-<a class='timeclass'>19:00pm - 20:30pm -  [Meeting at Meetup](https://www.meetup.com/fr-FR/Morocco-OWASP-Meetup-Group/)</a>
+<a class='timeclass'>[Meeting at Meetup](https://www.meetup.com/fr-FR/Morocco-OWASP-Meetup-Group/)</a>
 
 {% assign category = site.data.events | where: "category", "Global" | first %}
 
