@@ -7,7 +7,7 @@ order: 1
 tags: morocco-tag
 
 ---
-## Upcoming Event 15 Mai 2021 - DevSecOps Detox en collaboration avec OpenLAB Abidjan
+## Upcoming Event 19 June 2021 - DevSecOps Detox en collaboration avec OpenLAB Abidjan
 ### Hand-on during 2 hours slides and demo.
 
 ### Program
