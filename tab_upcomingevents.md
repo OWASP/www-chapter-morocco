@@ -17,9 +17,7 @@ Application Security Awareness Day (Agenda)
 
 10:00 - 11:00 The Fundamentals of Software Testing Salima MISSOUR (CMTL)
 
-11:00 - 12:00 Application Security Verification Standard
-
-by Josh GROSSMAN and Glenn Ten Cate (OWASP)
+11:00 - 12:00 Application Security Verification Standard by Josh GROSSMAN and Glenn Ten Cate (OWASP)
 
 12:00 - 12:45 Security Knowledge Framework Glenn TEN CATE (OWASP)
 
