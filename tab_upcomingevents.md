@@ -14,14 +14,20 @@ tags: morocco-tag
 
 Application Security Awareness Day (Agenda)
 09:30 - 10:00 Welcome and introduction (DGSSI & ADD)
+
 10:00 - 11:00 The Fundamentals of Software Testing Salima MISSOUR (CMTL)
+
 11:00 - 12:00 Application Security Verification Standard
-by Josh GROSSMAN and Glenn Ten Cate (OWASP) .
+
+by Josh GROSSMAN and Glenn Ten Cate (OWASP)
+
 12:00 - 12:45 Security Knowledge Framework Glenn TEN CATE (OWASP)
+
 12:45 - 13:15 Break
+
 13:15 - 14:00 The security test Alain RIBAULT (ISTQB)
+
 14:00 - 14:10 Closing remarks
-.
 
 ### Subscription (Free)
 Register via our Meetup event link:
