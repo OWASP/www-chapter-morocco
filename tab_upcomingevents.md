@@ -55,9 +55,9 @@ ISTQB : International Software Testing Qualifications Board.
 CFTL : Comité français des Tests Logiciels.
 
 ### Subscription (Free)
-Register via our Meetup event link:
+A cet effet, je vous invite à utiliser le lien ci-après pour compléter la procédure d’enregistrement. 
 
-https://www.meetup.com/fr-FR/Morocco-OWASP-Meetup-Group/events/284512526/
+https://attendee.gotowebinar.com/register/3345299733466486544
 
 ### Event Mode: online event
 
