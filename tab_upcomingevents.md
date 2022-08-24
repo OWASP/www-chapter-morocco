@@ -7,58 +7,62 @@ order: 1
 tags: morocco-tag
 
 ---
-## Upcoming Event 12 April 2022: Application Security Awareness Day (Online)
+## Upcoming Event Novembre 3rd, 2022: DevSecOps Toolchain Transformation
 ### ASVS cookbook with Josh GROSSMAN and Glenn Ten Cate (OWASP)
 
 ### Program
 
-Dans le cadre du renforcement de la sécurité applicative, et dans le continuité des actions menées lors du séminaire, organisé pendant le mois de novembre 2021, se rapportant à l’évaluation de la maturité de la sécurité du cycle de vie du développement logiciel (SDLC), la Direction Générale de la Sécurité des Systèmes d'Information (DGSSI) organise, le 12 avril 2022, une action de sensibilisation qui se déroulera en ligne.
+Détails
+## DevSecOps Toolchain Transformation Hands-on
 
-Cette action a pour objectif de présenter, par des experts de l’OWASP, le référentiel de vérification de la sécurité logicielle (document en pièce jointe) ainsi que le cadre de sécurité applicative, Framework Security Knowledge, (SKF).
+The DevSecOps Mindset and Salient Features
 
-Lors de cette journée, il sera aussi procédé à la présentation du modèle de test, en particulier de la sécurité, selon le référentiel ISTQB.
+Shared Objectives
+Prioritizing Security
+Auomation
+Operational Insights and Threat Intelligence
+Holistic Security
+Proactive Threat Monitoring
+Security-as-a-Code
+Infrastructure-as-a-Code
+Improved Collaboration
+Developers as Security Proponents
+Continuous Monitoring and Auditing
+Defined Incident Response
+Here are some actions you can take to upgrade your DevOps toolchain into a DevSecOps toolchain:
 
-A cet effet, je vous invite à utiliser le lien ci-après pour compléter la procédure d’enregistrement. 
+Learn From Others in the DevOps and DevSecOps Communities
+Look to the DevOps community to help close your critical knowledge gaps.
+2. Start With Your Container Security
+The first step to building out the security of your DevOps toolchain starts with your container security.
+Institute Continuous Compliance
+DevSecOps is a platform for continuous compliance to protect your software supply chains against vulnerable packages and vulnerable configurations.
+Double Down on Automation
+While you may have already been experimenting with automation during your DevOps phase, it only becomes more integral once you throw the switch in by going DevSecOps. Go into your DevOps to DevSecOps transformation with an automation strategy that focuses on automating common developer and sysadmin tasks.
+Improve Your Monitoring and Analytics
+Building out a DevSecOps toolchain takes your monitoring and analytics options to a new level. Consider the fact that you should already collect and publish data from your toolchain and deliver reports to your project managers, developers, QA testers, and stakeholders outside your team. Commonly, DevOps reporting is still a work in progress for organizations. Use the introduction of new security tools into your toolchain as a chance to offer more granular and real-time security reporting into all parts of your DevSecOps toolchain.
+Implement Accessibility Assurance
+Depending on your organization’s definition of compliance, the option is there to add accessibility compliance or Section 508 to your DevSecOps toolchain.
+This hands-on training is reserver for 70% professional and 30% students.
 
-https://attendee.gotowebinar.com/register/3345299733466486544
+Mandatory:
 
-Veuillez trouver ci-après l’agenda détaillé de cette journée de sensibilisation. 
+General Conditions in order to validate your participation to this event:
 
-Programme                                                                                           Intervention
-De 09:30 à 09:45     Mot d’ouverture                                                                DGSSI
+1. Student must send University/Student ID, otherwise registration will be rejected.
 
-De 09:45 à 10:00     Mot d’ouverture                                                                ADD
-
-De 10:00 à 11:00     La qualité et le test des logiciels selon le CMTL                              Salima MISSOUR, Vice-présidente du CMTL
-                        Les principes fondamentaux du test des logiciels
-                        Le test logiciel, un véritable métier en pleine croissance.
-                     Q/R                                                               
-De 11:00 à 12:00     Présentation du référentiel de vérification de la sécurité des applications    Josh GROSSMAN
-                     Q/R                                                                            &
-De 12:00 à 12:45     Framework SKF                                                                  Glenn TEN CATE
-                     Q/R                                                                            Experts OWASP
-
-Pause (de 12:45 à 13:15)
-
-De 13:15 à 14:00     Le test de la sécurité selon l’ISTQB :                                         Alain RIBAULT
-                         Les objectifs du test de la sécurité ;                                     Expert ISTQB & membre du CFTL
-                         Le processus général du test de la sécurité ;    
-                         Les facteurs humains.
-                      Q/R
-
-De 14:00 à 14:10      Mot de clôture.                                                               DGSSI
-
-
-CMTL : Comité marocain des Tests Logiciels.
-SKF : Security Knowledge Framework
-ISTQB : International Software Testing Qualifications Board.
-CFTL : Comité français des Tests Logiciels.
+2.Professional must register company emails, otherwise registration will be rejected.
 
 ### Subscription (Free)
-A cet effet, je vous invite à utiliser le lien ci-après pour compléter la procédure d’enregistrement. 
 
-https://attendee.gotowebinar.com/register/3345299733466486544
+Registration only via EventBrite. We don't accept answer via meetup.
 
-### Event Mode: online event
+Please indicate your firstname, lastname, company name, a valid business email or school email (email like gmai, free, hotmail, outlook, etc are not accepted and registration will be cancelled).
+
+Please register here:
+https://www.eventbrite.com/e/billets-devsecops-toolchain-transformation-374188276207
+
+
+### Event Mode: online event and physical
 
 Register to receive the Link.
