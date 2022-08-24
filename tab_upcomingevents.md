@@ -8,12 +8,7 @@ tags: morocco-tag
 
 ---
 ## Upcoming Event Novembre 3rd, 2022: DevSecOps Toolchain Transformation
-### ASVS cookbook with Josh GROSSMAN and Glenn Ten Cate (OWASP)
-
-### Program
-
-Détails
-## DevSecOps Toolchain Transformation Hands-on
+### Program: DevSecOps Toolchain Transformation Hands-on
 
 The DevSecOps Mindset and Salient Features
 
@@ -31,8 +26,9 @@ Continuous Monitoring and Auditing
 Defined Incident Response
 Here are some actions you can take to upgrade your DevOps toolchain into a DevSecOps toolchain:
 
-1.Learn From Others in the DevOps and DevSecOps Communities
+1. Learn From Others in the DevOps and DevSecOps Communities
 Look to the DevOps community to help close your critical knowledge gaps.
+
 2. Start With Your Container Security
 The first step to building out the security of your DevOps toolchain starts with your container security.
 3. Institute Continuous Compliance
