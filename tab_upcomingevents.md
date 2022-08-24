@@ -31,18 +31,19 @@ Continuous Monitoring and Auditing
 Defined Incident Response
 Here are some actions you can take to upgrade your DevOps toolchain into a DevSecOps toolchain:
 
-Learn From Others in the DevOps and DevSecOps Communities
+1.Learn From Others in the DevOps and DevSecOps Communities
 Look to the DevOps community to help close your critical knowledge gaps.
 2. Start With Your Container Security
 The first step to building out the security of your DevOps toolchain starts with your container security.
-Institute Continuous Compliance
+3. Institute Continuous Compliance
 DevSecOps is a platform for continuous compliance to protect your software supply chains against vulnerable packages and vulnerable configurations.
-Double Down on Automation
+4. Double Down on Automation
 While you may have already been experimenting with automation during your DevOps phase, it only becomes more integral once you throw the switch in by going DevSecOps. Go into your DevOps to DevSecOps transformation with an automation strategy that focuses on automating common developer and sysadmin tasks.
-Improve Your Monitoring and Analytics
+5. Improve Your Monitoring and Analytics
 Building out a DevSecOps toolchain takes your monitoring and analytics options to a new level. Consider the fact that you should already collect and publish data from your toolchain and deliver reports to your project managers, developers, QA testers, and stakeholders outside your team. Commonly, DevOps reporting is still a work in progress for organizations. Use the introduction of new security tools into your toolchain as a chance to offer more granular and real-time security reporting into all parts of your DevSecOps toolchain.
-Implement Accessibility Assurance
+6. Implement Accessibility Assurance
 Depending on your organization’s definition of compliance, the option is there to add accessibility compliance or Section 508 to your DevSecOps toolchain.
+
 This hands-on training is reserver for 70% professional and 30% students.
 
 Mandatory:
