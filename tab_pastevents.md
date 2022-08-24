@@ -11,7 +11,7 @@ tags: morocco-tag
 ## Past  Event
 
 ---
-
+## Upcoming Event April 12th 2022: OWASP ASVS, OWASP SKF with DGSSI
 ### ASVS cookbook with Josh GROSSMAN and Glenn Ten Cate (OWASP)
 
 ### Program
