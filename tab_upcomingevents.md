@@ -7,27 +7,23 @@ order: 1
 tags: morocco-tag
 
 ---
-## Upcoming Event February 18th, 2023: Design Enterprise Security Architecture with TOGAF and SABSA
-### Program: Design Enterprise Security Architecture with TOGAF and SABSA
-TOGAF and SABSA work together. SABSA is the world's leading security architecture framework.
-TOGAF is a modular enterprise architecture framework that is easily extensible to use domain best-practice.
-With the SABSA Institute and The Open Group Architecture Forum I created a methodlogy to use the both framework to design Secure Architecture and develop better enterprise architecture with best practice security architecture.
-
-During this talk I will show you:
-
-- How think of TOGAF plus SABSA.
-- Think enterprise architecture with world-class risk and security.
-
-Acronyms, Abbreviations, and Initialisms
-Short Form Full Form
-BOSS Business Operation Support Services
-CSA Cloud Security Alliance
-EA Enterprise Architecture
-SABSA Sherwood Applied Business Security Architecture
-
-## Upcoming Event Novembre 3rd, 2023: DevSecOps Toolchain Transformation
+## Upcoming Event May 18th, 2023: DevSecOps Toolchain Transformation
 ### Program: DevSecOps Toolchain Transformation Hands-on
 
+La chapitre OWASP Maroc dans les locaux du Golf Royal de Casablanca une session de sensibilisation :
+
+Les règles d’utilisation d’Internet
+Les dangers d’Internet
+Le cyberharcèlement
+L’utilisation d’une messagerie
+Utilisation sécurisé les blogs
+Utilisation sécurisé des réseaux sociaux
+Pourquoi sécuriser au maximum le mot de passe de vos comptes: email, réseau sociaux, etc ?
+Choisir un mot de passe robuste à partir d'une phrase
+C'est quoi le PasswordLess ?
+
+## Upcoming Event September 23th, 2023: DevSecOps Toolchain Transformation
+### Program: DevSecOps Toolchain Transformation Hands-on
 The DevSecOps Mindset and Salient Features
 
 Shared Objectives
