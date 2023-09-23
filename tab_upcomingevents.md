@@ -7,22 +7,22 @@ order: 1
 tags: morocco-tag
 
 ---
-## Upcoming Event May 18th, 2023: DevSecOps Toolchain Transformation
-### Program: DevSecOps Toolchain Transformation Hands-on
+## Upcoming Event October 05th, 2023: Stratégie de sécurité des systèmes d'informations: Risques et Opportunités
+OWASP Morocco chapter et Experts Club organise un séminaire sur réservation organisé par Groupe Le Matin en partenariat avec une société. Décliné sur une journée, un groupe d’experts internationaux et natio- naux intervient pour éclairer un public de décideurs sur une thématique précise. Au menu : des présentations théoriques et pratiques afin de répondre aux attentes des participants. 
 
-La chapitre OWASP Maroc dans les locaux du Golf Royal de Casablanca une session de sensibilisation :
+La cybercriminalité n’épargne plus aucune structure, grande ou petite, publique ou privée. Elle fonctionne sur le ciblage quotidien et structuré de dizaines de milliers d’organisations partout dans le monde.  
 
-Les règles d’utilisation d’Internet
-Les dangers d’Internet
-Le cyberharcèlement
-L’utilisation d’une messagerie
-Utilisation sécurisé les blogs
-Utilisation sécurisé des réseaux sociaux
-Pourquoi sécuriser au maximum le mot de passe de vos comptes: email, réseau sociaux, etc ?
-Choisir un mot de passe robuste à partir d'une phrase
-C'est quoi le PasswordLess ?
+Loin d’être des personnes isolées ou des groupuscules, des organisations criminelles structurées et à la pointe des technologie sont à la manœuvre. En 2022, les pertes liées à la cybercriminalité ont été estimées à 1.000 milliards de dollars et elles pourraient atteindre 6.000 milliards de dollars en 2023. Le Maroc n’est pas épargné. 
 
-## Upcoming Event September 23th, 2023: DevSecOps Toolchain Transformation
+Agenda:
+
+Amélioration de la sécurité des SI par l’automatization de l’orchestration à l’aide de la platforme NextGen SOAR (Security Orchestration Automation and Response)
+Recommandations stratégiques pour une détection et réponses efficaces aux incidents cybersécurité
+Transformer la menace cybersécurité en avantage compétitif : recommandations straétgiques pour les dirigeants
+Construire votre NextGen SOC pour alimenter le pilotage des systèmes d'information avec les métriques adéquates
+
+
+## Upcoming Event November 24th, 2023: DevSecOps Toolchain Transformation
 ### Program: DevSecOps Toolchain Transformation Hands-on
 The DevSecOps Mindset and Salient Features
 
