@@ -19,9 +19,22 @@ L’utilisation d’une messagerie
 Utilisation sécurisé  les blogs
 Utilisation sécurisé des réseaux sociaux
 
+## Paset Event May 18th, 2023: DevSecOps Toolchain Transformation
+### Program: DevSecOps Toolchain Transformation Hands-on
 
+La chapitre OWASP Maroc dans les locaux du Golf Royal de Casablanca une session de sensibilisation :
 
-## Upcoming Event September 23th, 2023: Design Enterprise Security Architecture with TOGAF and SABSA
+Les règles d’utilisation d’Internet
+Les dangers d’Internet
+Le cyberharcèlement
+L’utilisation d’une messagerie
+Utilisation sécurisé les blogs
+Utilisation sécurisé des réseaux sociaux
+Pourquoi sécuriser au maximum le mot de passe de vos comptes: email, réseau sociaux, etc ?
+Choisir un mot de passe robuste à partir d'une phrase
+C'est quoi le PasswordLess ?
+
+## Paset Event September 23th, 2023: Design Enterprise Security Architecture with TOGAF and SABSA
 ### Program: Design Enterprise Security Architecture with TOGAF and SABSA
 TOGAF and SABSA work together. SABSA is the world's leading security architecture framework.
 TOGAF is a modular enterprise architecture framework that is easily extensible to use domain best-practice.
@@ -39,7 +52,7 @@ CSA Cloud Security Alliance
 EA Enterprise Architecture
 SABSA Sherwood Applied Business Security Architecture
 
-## Upcoming Event April 12th 2022: OWASP ASVS, OWASP SKF with DGSSI
+## Paset Event April 12th 2022: OWASP ASVS, OWASP SKF with DGSSI
 ### ASVS cookbook with Josh GROSSMAN and Glenn Ten Cate (OWASP)
 
 ### Program
