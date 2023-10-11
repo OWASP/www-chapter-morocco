@@ -5,6 +5,7 @@ title: OWASP Morocco
 tags: morocco-tag
 level: 0
 region: Africa
+country: Morocco
 meetup-group: Morocco-OWASP-Meetup-Group
 
 ---
