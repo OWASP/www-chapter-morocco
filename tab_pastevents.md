@@ -27,6 +27,76 @@ order: 1
 tags: morocco-tag
 
 ---
+---
+title: upcomingevents
+displaytext: Upcoming Events
+layout:  null
+tab: true
+order: 1
+tags: morocco-tag
+
+---
+title: upcomingevents
+displaytext: Upcoming Events
+layout:  null
+tab: true
+order: 1
+tags: morocco-tag
+
+---
+## Upcoming Event June 21th, 2024: DevSecOps Day 2 at FST Settat
+OWASP Morocco chapter organise une journée DevSecOps à la Faculté des Sciences de Settat en collaboration avec l'ISTA de Settat.
+
+Agenda:
+
+Matinée : 9h30-13h00
+
+9h30-9h40 : Mot de bienvenue et d’annonce du programme de la journée
+
+9h40-10h30 : La culture DevOps : pratiques et processus
+
+10h30-11h10 : Les défits sécuritaires de la livraison continue
+
+11h10-13h00 : DevSecOps : Solutions et outils (Cas de projet : OWASP secureCodeBox Project)
+
+Après-midi: 14h00-18h00
+
+Workshop 1: SAST & DAST
+
+Workshop 2: SCA & IAST
+
+.
+
+### Subscription (Free)
+
+Access is free at FST Settat.
+---
+## Upcoming Event April 25th, 2024: DevSecOps Day 1 at FST Settat
+OWASP Morocco chapter organise une journée DevSecOps à la Faculté des Sciences de Settat en collaboration avec l'ISTA de Settat.
+
+Agenda:
+
+Matinée : 9h30-13h00
+
+9h30-9h40 : Mot de bienvenue et d’annonce du programme de la journée
+
+9h40-10h30 : La culture DevOps : pratiques et processus
+
+10h30-11h10 : Les défits sécuritaires de la livraison continue
+
+11h10-13h00 : DevSecOps : Solutions et outils (Cas de projet : OWASP secureCodeBox Project)
+
+Après-midi: 14h00-18h00
+
+Workshop 1: Architecture Secure by Design
+
+Workshop 2: Security and Governance for your CI/CD pipelines
+
+.
+
+### Subscription (Free)
+
+Access is free at FST Settat.
 ## Upcoming Event October 05th, 2023: Stratégie de sécurité des systèmes d'informations: Risques et Opportunités
 OWASP Morocco chapter et Experts Club organise un séminaire sur réservation organisé par Groupe Le Matin en partenariat avec une société. Décliné sur une journée, un groupe d’experts internationaux et natio- naux intervient pour éclairer un public de décideurs sur une thématique précise. Au menu : des présentations théoriques et pratiques afin de répondre aux attentes des participants. 
 
