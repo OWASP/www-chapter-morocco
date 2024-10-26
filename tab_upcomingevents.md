@@ -7,7 +7,7 @@ order: 1
 tags: morocco-tag
 
 ---
-## Upcoming Event Octobre 19th, 2024: Mixed Threat Modeling using STRIDE & PAST
+## Upcoming Event Novembre 11th, 2024: Mixed Threat Modeling using STRIDE & PAST
 OWASP Morocco chapter organise une journée Threat Modeling via Teams.
 
 Agenda:
@@ -28,7 +28,7 @@ L'accès est libre mais l'inscription est obligatoire via Eventbrite.
 Une personne inscrite qui ne se présente pas ne pourr pas assister à nos prochaines ateliers sauf cas de force majeure. En effet les places sont limités et toute inscription avec non présence c'est une place perdue pour d'autres.
 
 
-## Upcoming Event Novembre 30th, 2024: Advanced Web Application Penetration Testing - Focus on threa OWASP TOP 10 2021 risks: SSRF, Insecure Design
+## Upcoming Event December 25th, 2024: Advanced Web Application Penetration Testing - Focus on threa OWASP TOP 10 2021 risks: SSRF, Insecure Design
 OWASP Morocco chapter organise une journée Threat Modeling via Teams.
 
 Agenda:
